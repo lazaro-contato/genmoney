@@ -1,6 +1,5 @@
-import React, {useState} from 'react'
+import React from 'react'
 import logo from '../../assets/logo.svg'
-import Modal from 'react-modal'
 import {Container, Content} from './styles'
 
 interface HeaderProps {
